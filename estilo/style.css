@@ -194,5 +194,5 @@ footer a:hover{
     color: var(--cor1);
 }
 .bug{
-   min-width: 320px;
+    width: 100%;
 }
