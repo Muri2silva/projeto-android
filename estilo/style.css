@@ -193,3 +193,6 @@ footer a:hover{
     text-decoration: underline;
     color: var(--cor1);
 }
+.bug{
+   min-width: 320px;
+}
